@@ -5,7 +5,7 @@
     "test": "karma start public/test/karma.conf.js"
   },
   "dependencies": {
-    "agenda": "^2.0.0",
+    "agenda": "^4.0.0",
     "async": "^2.0.1",
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.2",
